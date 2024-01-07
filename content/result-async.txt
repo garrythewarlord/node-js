@@ -1,0 +1,1 @@
+this is the result: Hey, this is being read from a file.txt in content folder, Here is the result: This is a text created using writeFileSync method from fs module
